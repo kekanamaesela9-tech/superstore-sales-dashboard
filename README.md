@@ -27,6 +27,6 @@ This project analyses retail sales data from the Superstore dataset using Google
 - Charts & Tables
 
 ## Live dashboard
-A view-only version of the dashboard is available here: https://docs.google.com/spreadsheets/d/1TFWVurpOh-yjfUIyWQ9JfbXMrk_9uDLfuuqWzn255qw/edit?usp=sharing
+A view-only version of the dashboard is available here:https://docs.google.com/spreadsheets/d/1TFWVurpOh-yjfUIyWQ9JfbXMrk_9uDLfuuqWzn255qw/edit?usp=sharing
 
 
