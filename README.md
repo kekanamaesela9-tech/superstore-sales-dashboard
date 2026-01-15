@@ -29,5 +29,9 @@ This project analyses retail sales data from the Superstore dataset using Google
 ## Live dashboard
 A view-only version of the dashboard is available here:https://docs.google.com/spreadsheets/d/1TFWVurpOh-yjfUIyWQ9JfbXMrk_9uDLfuuqWzn255qw/edit?usp=sharing
 
+Power BI Analysis
+In addition to the Excel-based analysis, this repository includes a Power BI dashboard that demonstrates interactive business intelligence reporting, KPI development, and visual analytics using the same dataset.
+
+
 
 
